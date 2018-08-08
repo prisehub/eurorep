@@ -12,3 +12,6 @@
 	path = prisehub/hr
 	url = git@github.com:prisehub/hr.git
 	branch = 10.0
+[submodule "odooec"]
+	path = odooec
+	url = git@github.com:ovnicraft/odooec.git
