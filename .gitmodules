@@ -7,3 +7,8 @@
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 10.0
+
+[submodule "prisehub/hr"]
+	path = prisehub/hr
+	url = git@github.com:prisehub/hr.git
+	branch = 10.0
